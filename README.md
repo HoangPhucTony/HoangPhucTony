@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://dohoangphuc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dohoangphuc.vercel.app-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/do-hoang-phuc-303b53322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dohoangphuc0606/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dhp06062005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -55,6 +55,8 @@ A good analysis starts with the right question and ends with a decision someone 
 **📊 Data analysis**
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" alt="DAX" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -95,12 +97,21 @@ A bilingual (EN / VI) portfolio with a Data Analyst / Business Analyst switch. E
 <a href="https://dohoangphuc.vercel.app/"><img src="https://img.shields.io/badge/Live_site-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live site" /></a>
 <a href="https://github.com/HoangPhucTony/Personal_Porforlio-"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
 
-### 🛒 MIS Purchasing: retail procurement on Odoo 19
+### 🧠 Student mental health, from sensor data to decisions · *University Project*
 
-Team project for the MIS Practical Project course. Business analysis of a retail chain's procurement and store replenishment (AS-IS vs. TO-BE), built as custom Odoo 19 modules.
+Team coursework for Data Warehousing & Decision Support Systems. A SQL Server warehouse built from five years of phone sensing and mood surveys (189 students, 8,809 observed days), with a four-page Power BI dashboard for a university counselling team. My part was the Power BI layer: star schema model, 24 DAX measures, dashboards and recommendations, plus a QA pass that found and fixed six data errors.
 
-**Tech:** Odoo 19 · Python · PostgreSQL
+**Tech:** Power BI · DAX · SQL Server · SSIS · SSAS
 
+<a href="https://dohoangphuc.vercel.app/projects/uth-student-mental-health"><img src="https://img.shields.io/badge/Case_study-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Case study" /></a>
+
+### 🛒 MIS Purchasing: retail procurement on Odoo 19 · *University Project*
+
+Team coursework for the MIS Practical Project course. I wrote the interview questions and interviewed a retail chain's staff in person to elicit requirements and pin down their purchasing pain points, then modelled the process in BPMN (AS-IS / TO-BE), ran a fit-gap against standard Odoo and wrote the business rules. On the build side, I wrote about 70% of the three custom Odoo 19 modules and the auto-deploy to a live demo.
+
+**Tech:** Stakeholder interviews · BPMN · Fit-gap analysis · Odoo 19 · Python · PostgreSQL · Docker
+
+<a href="https://dohoangphuc.vercel.app/projects/uth-mis-purchasing"><img src="https://img.shields.io/badge/Case_study-f0b44d?style=for-the-badge&logo=vercel&logoColor=black" alt="Case study" /></a>
 <a href="https://github.com/HoangPhucTony/Mis_Purchasing_OdooProject"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
 <a href="https://huggingface.co/spaces/IceMisha/OdooProject"><img src="https://img.shields.io/badge/Live_demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live demo" /></a>
 
@@ -128,6 +139,8 @@ Course labs from exploration to forecasting: `EDA` → `ARIMA / SARIMA` → `XGB
       │
 2024  ●  Data Analytics Certificate · VTI Academy
       │
+2025  ●  Data warehouse & Power BI dashboard (coursework)
+      │
 2026  ●  MIS projects on Odoo 19 · time series forecasting
       ●  BA Intern @ SIG & MCPT (Aug – now)
       │
@@ -144,7 +157,7 @@ Hiring a DA or BA intern or fresher? Email is the fastest way to reach me. I'm h
 <div align="center">
 
 <a href="mailto:dhp06062005@gmail.com"><img src="https://img.shields.io/badge/dhp06062005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/do-hoang-phuc-303b53322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/dohoangphuc0606/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://dohoangphuc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0b44d,45:1f8f8a,100:080d17&height=110&section=footer" width="100%" alt="" />
